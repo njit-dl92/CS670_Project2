@@ -2,7 +2,6 @@
 
 1. **Cloning the Repository**
    - Install Git (if not installed):
-     - **Windows**: Download from [Git website](https://git-scm.com/download/win).
      - **Linux (Ubuntu)**:
        ```bash
        sudo apt update
@@ -10,20 +9,15 @@
        ```
    - Clone the repository:
      ```bash
-     git clone <repository-url>
+     git clone git@github.com:njit-dl92/CS670_Project2.git
      ```
-     (Replace `<repository-url>` with the actual Git repository URL).
    
    - Navigate to the cloned repository directory:
      ```bash
-     cd <repository-name>
+     cd DineshLankepillewar_Project2_SourceCode
      ```
-     (Replace `<repository-name>` with the name of your cloned directory).
 
-2. **Navigating to the Source Code Directory**
-   - The source code files (e.g., `main.py`, `game.py`, `player.py`) should be in the directory you navigated to in the previous step.
-
-3. **Running the Game**
+2. **Running the Game**
    - Ensure Python 3 is installed:
      ```bash
      python3 --version
@@ -60,10 +54,3 @@
      - Make an accusation
    - **End Game**: A player wins if they make a correct accusation.
 
----
-
-### **Summary of Commands**
-1. **Clone the Repository**:
-   ```bash
-   git clone <repository-url>
-   cd <repository-name>
