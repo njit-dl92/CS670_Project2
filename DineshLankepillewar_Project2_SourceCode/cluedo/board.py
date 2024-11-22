@@ -3,5 +3,5 @@ class Board:
         self.rooms = []
 
     def setup_rooms(self):
-        self.rooms = ["Kitchen", "Ballroom", "Conservatory", "Dining Room", "Library", "Lounge"]
+        self.rooms = ["Kitchen", "Ballroom", "Conservatory", "Dining Room", "Library", "Lounge", "Hall", "Study"]
         print("Rooms setup complete!")
