@@ -9,7 +9,7 @@
        ```
    - Clone the repository:
      ```bash
-     git clone git@github.com:njit-dl92/CS670_Project2.git
+     git clone https://github.com/njit-dl92/CS670_Project2.git
      ```
    
    - Navigate to the cloned repository directory:
